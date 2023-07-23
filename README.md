@@ -1,5 +1,5 @@
 # GodScraper
-There are 43 options in venom Member Adding Script. All features are described below
+There are 43 options in God Member Adding Script. All features are described below
 
 1. Login :- Using this option you can login your telegran account
 2. Banfilter + remover :- This filter can remove your banned account
@@ -160,5 +160,4 @@ To Group = In this section link of group from where you want to ADD member will 
 GroupID = in this section you need to add group add of group ( Group id will get you from bot added in group where you want to add member as example the group id will look like this -1001561952101 )
 PhoneNumber = Enter phone number here only 1 number for using 'user id adder' you need to add multiple phone number like this 17312031527, 12612021971 but for username use single number here
 EnterStop = No need to edit this
-StartingAccount = Watch Video
-EndAccount = Watch Video
+
